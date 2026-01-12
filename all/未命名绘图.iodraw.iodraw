@@ -49,8 +49,8 @@
             <mxPoint x="450" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Entities&lt;/h1&gt;&lt;p&gt;Client&lt;/p&gt;&lt;p&gt;Log&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="180" height="160" as="geometry" />
+        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Entities&lt;/h1&gt;&lt;p&gt;1. Client ( ip, instance ID, service)&lt;/p&gt;&lt;p&gt;2. Log&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
