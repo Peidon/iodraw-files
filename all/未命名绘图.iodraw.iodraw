@@ -11,15 +11,15 @@
           <mxGeometry x="70" y="260" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DJfAXjuwBFzBaVi6zVsJ-4" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DJfAXjuwBFzBaVi6zVsJ-7" value="sync serivce" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="460" y="585" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DJfAXjuwBFzBaVi6zVsJ-4" target="DJfAXjuwBFzBaVi6zVsJ-7">
+        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DJfAXjuwBFzBaVi6zVsJ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="650" as="sourcePoint" />
-            <mxPoint x="450" y="610" as="targetPoint" />
+            <mxPoint x="340" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DJfAXjuwBFzBaVi6zVsJ-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Entities&lt;/h1&gt;&lt;p&gt;1. Client ( ip, instance ID, service)&lt;/p&gt;&lt;p&gt;2. Log file&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
