@@ -16,7 +16,7 @@
         <mxCell id="DJfAXjuwBFzBaVi6zVsJ-7" value="sync serivce" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="460" y="585" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DJfAXjuwBFzBaVi6zVsJ-4">
+        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DJfAXjuwBFzBaVi6zVsJ-4" target="DJfAXjuwBFzBaVi6zVsJ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="650" as="sourcePoint" />
             <mxPoint x="290" y="625" as="targetPoint" />
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="DJfAXjuwBFzBaVi6zVsJ-16" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="300" y="585" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="660" as="sourcePoint" />
+            <mxPoint x="330" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
