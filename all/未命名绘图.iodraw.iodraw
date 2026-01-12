@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;functional requierments&lt;/h1&gt;&lt;div&gt;1. User should be able to see&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="50" width="350" height="120" as="geometry" />
+        <mxCell id="DJfAXjuwBFzBaVi6zVsJ-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;functional requierments&lt;/h1&gt;&lt;div&gt;1. User should be able to look up entire logs from a distributed system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1MB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="350" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
