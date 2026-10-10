@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="biapQgl3S_dP4P1i-3qA-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Function requirements&lt;/h1&gt;&lt;p&gt;1. upload PDF which contains JODC data.&lt;/p&gt;&lt;p&gt;2&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="270" height="230" as="geometry" />
+          <mxGeometry x="40" y="40" width="270" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
