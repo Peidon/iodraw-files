@@ -11,7 +11,7 @@
           <mxGeometry x="180" y="152.3" width="74.8" height="75.4" as="geometry" />
         </mxCell>
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-6" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="550" y="306.15" width="90" height="87.7" as="geometry" />
+          <mxGeometry x="369" y="412.29999999999995" width="90" height="87.7" as="geometry" />
         </mxCell>
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-7" value="RAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-8" value="Http server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OcEWsie_DKr06eIQtJ_Z-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="410" width="95" height="70" as="geometry" />
+        <mxCell id="OcEWsie_DKr06eIQtJ_Z-9" value="File system" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="430" width="95" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
