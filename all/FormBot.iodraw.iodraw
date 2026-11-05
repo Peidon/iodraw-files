@@ -8,13 +8,13 @@
           <mxGeometry x="80" y="160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
-          <mxGeometry x="180" y="152.3" width="74.8" height="75.4" as="geometry" />
+          <mxGeometry x="220" y="152.3" width="74.8" height="75.4" as="geometry" />
         </mxCell>
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-6" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="385" y="412.29999999999995" width="90" height="87.7" as="geometry" />
         </mxCell>
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-7" value="RAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OcEWsie_DKr06eIQtJ_Z-8" value="Http server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
