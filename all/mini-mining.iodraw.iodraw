@@ -25,7 +25,7 @@
         <mxCell id="AKSPVCkLezJSqOFM0NC0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKSPVCkLezJSqOFM0NC0-4" target="biapQgl3S_dP4P1i-3qA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AKSPVCkLezJSqOFM0NC0-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="AKSPVCkLezJSqOFM0NC0-4" value="Web crawler" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="346" y="70" width="136" height="75" as="geometry" />
         </mxCell>
       </root>
