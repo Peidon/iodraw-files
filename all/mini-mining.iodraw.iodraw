@@ -14,10 +14,10 @@
           <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="biapQgl3S_dP4P1i-3qA-6" value="3D View" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AKSPVCkLezJSqOFM0NC0-1" value="PDF" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="106" y="50" width="88" height="60" as="geometry" />
+          <mxGeometry x="106" y="50" width="104" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
