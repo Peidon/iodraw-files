@@ -54,11 +54,11 @@
         <mxCell id="AKSPVCkLezJSqOFM0NC0-13" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="422" y="505" width="112" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AKSPVCkLezJSqOFM0NC0-14" value="LLM extracting" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AKSPVCkLezJSqOFM0NC0-14" value="HTTP server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AKSPVCkLezJSqOFM0NC0-15" value="3D View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
